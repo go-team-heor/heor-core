@@ -1,0 +1,24 @@
+{
+  "name": "heor-core",
+  "version": "1.0.0",
+  "description": "Core HEOR Bot",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/go-team-heor/heor-core.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/go-team-heor/heor-core/issues"
+  },
+  "homepage": "https://github.com/go-team-heor/heor-core#readme",
+  "devDependencies": {
+    "ts-node": "^10.9.1",
+    "typescript": "^4.9.4"
+  }
+}
